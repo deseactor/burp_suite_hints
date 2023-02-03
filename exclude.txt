@@ -1,0 +1,5 @@
+doubleclick		
+yandex		
+gstatic		
+youtube		
+google		
